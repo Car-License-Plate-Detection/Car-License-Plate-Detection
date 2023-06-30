@@ -2,7 +2,7 @@
 <img src="./images/4.png" width="70%" height="50%"/>
 
 <br/>
-
+dd
 * Language / IDE
   * <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   * <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
