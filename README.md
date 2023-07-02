@@ -13,7 +13,7 @@
 * CNN (Conv - ReLU - Pooling - Conv - ReLU - Pooling - Affine - ReLU - Affine - Sigmoid )
 
 <img src="./images/cnn구조.png" width="70%" height="70%"/>
-<img src="./images/1.png" width="60%" height="300"/>
+<img src="./images/1.png" width="60%" height="60%"/>
 
 ## Dataset
 
