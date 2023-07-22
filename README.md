@@ -1,5 +1,5 @@
 <img src="./images/4.png" width="70%" height="50%"/>
-d
+
 ## People
 
 * [Yeongjin Kim](https://github.com/kyj950514 "김영진")
