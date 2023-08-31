@@ -14,13 +14,6 @@
 * <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white"/>
 * <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
 
-## Model
-
-* CNN (Conv - ReLU - Pooling - Conv - ReLU - Pooling - Affine - ReLU - Affine - Sigmoid )
-
-<img src="./images/cnn구조.png" width="70%" height="70%"/>
-<img src="./images/1.png" width="60%" height="60%"/>
-
 ## Dataset
 
 * 2140 images
@@ -30,6 +23,13 @@
  <img src="./images/N187.jpeg" width="40%" height="40%"/> 
  <img src="./images/KA11.jpg" width="40%" height="40%"/>
 </p>
+
+## Model
+
+* CNN (Conv - ReLU - Pooling - Conv - ReLU - Pooling - Affine - ReLU - Affine - Sigmoid )
+
+<img src="./images/cnn구조.png" width="70%" height="70%"/>
+<img src="./images/1.png" width="60%" height="60%"/>
 
 ## Optimizer
 
